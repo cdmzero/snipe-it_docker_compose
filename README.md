@@ -1,6 +1,6 @@
 For initializing you must have preoviously installed Docker Docker-Compose in your computer
 
-  Simply open a terminal/Gitbash/Bash in the folder that you have downloaded this file and type this for deploying Sniper-IT:
+  Simply open a terminal/Gitbash/Bash in the folder that you have downloaded this file and type this for deploying Snipe-IT:
   
           - docker-compose up
           
